@@ -11,11 +11,16 @@
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 👨‍💻 All of my projects are available at [https://Shrinkhlarajpoot.github.io/](https://bharati-21.github.io/)
+- 👨‍💻 All of my projects are available at [https://Shrinkhlarajpoot.github.io/](https://Shrinkhlarajpoot.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Data Structures**
 
 - 📫 How to reach me **shrinkhlarajpoot@gmail.com**
+ ### Outside of coding I enjoy:
+
+- Reading Random Stuff
+- Exploring new Places 
+- Sci-fi movies/tv shows
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
