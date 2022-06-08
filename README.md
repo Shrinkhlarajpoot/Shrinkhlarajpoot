@@ -16,7 +16,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Data Structures**
 
 - 📫 How to reach me **shrinkhlarajpoot@gmail.com**
- ## Outside of coding I enjoy:
+<h3 align="left">Outside of Coding I enjoy:</h3>
 
 - Reading Random Stuff
 - Exploring new Places 
