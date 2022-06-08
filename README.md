@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shrinkhlarajpoot?tab=repositories](Shrinkhlarajpoot)
+- 👨‍💻 All of my projects are available at [github.com/Shrinkhlarajpoot](https://github.com/Shrinkhlarajpoot?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Data Structures**
 
