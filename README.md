@@ -16,7 +16,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Data Structures**
 
 - 📫 How to reach me **shrinkhlarajpoot@gmail.com**
- ### Outside of coding I enjoy:
+ ## Outside of coding I enjoy:
 
 - Reading Random Stuff
 - Exploring new Places 
