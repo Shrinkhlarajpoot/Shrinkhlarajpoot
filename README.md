@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/ShrinkhlaR" target="blank"><img src="https://img.shields.io/twitter/follow/_shrinkhla?logo=twitter&style=for-the-badge" alt="_bhaaratii" /></a> </p>
 
-- 🔭 I’m currently working on [Social Media App](https://readers-space.netlify.app/)
+- 🔭 I’m currently working on [Social Media App](https://matrix-social.netlify.app/)
 
 - 🌱 I’m currently learning **JavaScript, React, Redux**
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 👨‍💻 All of my projects are available at [https://Shrinkhlarajpoot.github.io/](https://Shrinkhlarajpoot.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/Shrinkhlarajpoot?tab=repositories](https://github.com/Shrinkhlarajpoot?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Data Structures**
 
