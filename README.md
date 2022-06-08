@@ -11,9 +11,7 @@
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 👨‍💻 All of my projects are available at [https://bharati-21.github.io/](https://bharati-21.github.io/)
-
-- 📝 I regularly write articles on [https://dev.to/bharati21/](https://dev.to/bharati21/)
+- 👨‍💻 All of my projects are available at [https://Shrinkhlarajpoot.github.io/](https://bharati-21.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Data Structures**
 
