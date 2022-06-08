@@ -19,32 +19,6 @@
 
 - 📫 How to reach me **shrinkhlarajpoot@gmail.com**
 
-
-## Skill set:
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/visualstudio-plain.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/redux-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ShrinkhlaR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shrinkhla" height="30" width="40" /></a>
