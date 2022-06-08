@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/ShrinkhlaR" target="blank"><img src="https://img.shields.io/twitter/follow/_shrinkhla?logo=twitter&style=for-the-badge" alt="_bhaaratii" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ShrinkhlaR" target="blank"><img src="https://img.shields.io/twitter/follow/_shrinkhla?logo=twitter&style=for-the-badge" alt="ShrinkhlaR" /></a> </p>
 
 - 🔭 I’m currently working on [Social Media App](https://matrix-social.netlify.app/)
 
@@ -24,9 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ShrinkhlaR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shrinkhla" height="30" width="40" /></a>
+<a href="https://twitter.com/ShrinkhlaR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShrinkhlaR" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shrinkhla-rajpoot-aaa74b1a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrinkhla-rajpoot-aaa74b1a7" height="30" width="40" /></a>
-<a href="https://hashnode.com/@Shrinkhla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shrinkhla" height="30" width="40" /></a>
+<a href="https://hashnode.com/@Shrinkhla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@Shrinkhla" height="30" width="40" /></a>
   
 </p>
 
