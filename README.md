@@ -1,42 +1,46 @@
-<h1 align="center">Hi 👋, I'm Shrinkhla Rajpoot</h1>
-<h3 align="center">I'm a Front end developer aspiring to become a Fullstack web developer, and UI/UX designer.</h3>
+# 👋 Hi, I'm Shrinkhla Rajpoot
 
+**Frontend Developer (3.2+ Years) | React.js | TypeScript | Modern UI Engineering**
 
+I build fast, scalable, and user-centric web applications using **React & TypeScript**.  
+Now expanding into **full-stack development** and UI/UX to deliver end-to-end product experiences.
 
-<p align="left"> <a href="https://twitter.com/ShrinkhlaR" target="blank"><img src="https://img.shields.io/twitter/follow/_shrinkhla?logo=twitter&style=for-the-badge" alt="ShrinkhlaR" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Social Media App](https://matrix-social.netlify.app/)
+### 🚀 What I'm Doing
+- ✅ Completed: **Full Social Media Web App**
+- 🌱 Learning: **Next.js | Node.js | MongoDB | UI/UX**
+- 🤝 Open to: **Frontend & Full-Stack Collaboration**
+- 💬 Ask me about: **React, TypeScript, Redux, Performance Optimization**
 
-- 🌱 I’m currently learning **JavaScript, React, Redux**
+---
 
-- 👯 I’m looking to collaborate on **web development**
+### 🛠️ Tech Stack & Tools
 
-- 👨‍💻 All of my projects are available at [github.com/Shrinkhlarajpoot](https://github.com/Shrinkhlarajpoot?tab=repositories)
+#### **Frontend**
+React.js • TypeScript • JavaScript • Redux Toolkit • Zustand • HTML5 • CSS3 • Tailwind
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Data Structures**
+#### **Backend / Learning**
+Node.js • Express • MongoDB
 
-- 📫 How to reach me **shrinkhlarajpoot@gmail.com**
-<h3 align="left">Outside of Coding I enjoy:</h3>
+#### **Tools & Workflow**
+Git • GitHub • Webpack • Babel • Axios • REST APIs • Agile/Scrum
 
-- Reading Random Stuff
-- Exploring new Places 
-- Sci-fi movies/tv shows
+#### **Dev Strengths**
+Reusable UI Components • Clean Architecture • Performance Optimization • Responsive Design
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ShrinkhlaR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShrinkhlaR" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shrinkhla-rajpoot-aaa74b1a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrinkhla-rajpoot-aaa74b1a7" height="30" width="40" /></a>
-<a href="https://hashnode.com/@Shrinkhla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@Shrinkhla" height="30" width="40" /></a>
-  
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🌟 Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrinkhlarajpoot&show_icons=true&locale=en&layout=compact" alt="Shrinkhlarajpoot" /></p>
+| Project | Tech Stack | Description |
+|---|---|---|
+**Social Media Web App (Completed)** | React, TypeScript, Redux, Firebase, Tailwind | Auth, posts, likes, comments, chat, profile, responsive UI |
+Team Collaboration App | React, WebSockets, GetStreamIO, 100ms | Real-time team chat + video calls |
+Portfolio Website | React, Tailwind | Minimal, animated, responsive personal portfolio |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrinkhlarajpoot&show_icons=true&locale=en" alt="Shrinkhlarajpoot" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhlarajpoot&" alt="Shrinkhlarajpoot" /></p>
+🔗 **More pro**
+
 
 
 
